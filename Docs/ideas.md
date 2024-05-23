@@ -29,8 +29,8 @@
 - **AI nepřátel**: Základní AI pro jednoduché nepřátele, složitější chování pro bossy.
 
 ## Plánování a milníky
-- **Milestone 1: Základní pohyb a mechaniky (Q1 2024)**: Implementace základního pohybu a bojových mechanik.
-- **Milestone 2: Vytvoření prostředí (Q2 2024)**: Design a implementace prvních dvou úrovní, nepřátelé.
+- **Milestone 1: Základní pohyb a mechaniky (Q2 2024)**: Implementace základního pohybu a bojových mechanik.
+- **Milestone 2: Vytvoření prostředí (Q3 2024)**: Design a implementace prvních dvou úrovní, nepřátelé.
 - **Milestone 3: Grafika a zvuky (Q3 2024)**: Finalizace grafiky a zvukových efektů, optimalizace.
 - **Milestone 4: Příběh a level design (Q4 2024)**: Implementace příběhu, design úrovní, testování a ladění.
 
