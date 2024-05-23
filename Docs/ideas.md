@@ -21,8 +21,8 @@
 - **Hudba a zvukové efekty**: Ambientní hudba pro každou úroveň, zvuky pro pohyb, útoky, interakce.
   
 ## Příběh
-- Základní příběhová linie:
-- Hlavní postavy:
+- **Základní příběhová linie**:
+- **Hlavní postavy**:
   
 ## Technické aspekty
 - **Herní engine**: Unreal Engine.
