@@ -10,7 +10,7 @@
 - Přidání nepřátel a jejich chování
 - Přidání sbíratelných předmětů
 
-## Milestone 3: Grafika a zvuky (Q4 2024)
+## Milestone 3: Grafika a zvuky (Q3 2024)
 - Finalizace grafického stylu
 - Implementace hudby a zvukových efektů
 - Optimalizace pro různé platformy
