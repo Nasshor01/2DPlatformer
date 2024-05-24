@@ -1,5 +1,3 @@
----
-
 # AI Nepřítel - Základní Pohyb
 
 ## Vytvoření Blueprintu pro nepřítele
@@ -62,5 +60,3 @@ PawnSensing -> OnSeePawn (Pawn)
 
 2. **Optimalizace**:
    - Optimalizuji AI pro plynulý běh hry.
-
----
