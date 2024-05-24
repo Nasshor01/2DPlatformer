@@ -1,5 +1,3 @@
-Jasně, napíšu to tak, aby to vypadalo, že jsi si to psal sám pro sebe. Vytvořím text, který můžeš vložit do nového souboru ve svém GitHub repozitáři, třeba `Docs/ai_enemy_setup.md`.
-
 ---
 
 # AI Nepřítel - Základní Pohyb
