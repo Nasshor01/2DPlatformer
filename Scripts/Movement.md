@@ -5,3 +5,5 @@ EnhancedInputAction IA_Move
   -> Multiply (X: Action Value X, Y: -1)
   -> Make Vector (X: Multiply Output, Y: 0, Z: 0)
   -> Add Movement Input (Target: Self, World Direction: Make Vector Output, Scale Value: 1.0)
+
+Tohle nám umožní pohyb po ose X podle směru doprava a doleva 
